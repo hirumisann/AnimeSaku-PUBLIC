@@ -3,7 +3,7 @@
 # 🌸 AnimeSaku
 **Streaming Anime Terbaru & Terlengkap**
 
-[![Live Demo](https://img.shields.io/badge/🎬_Coba_Webnya_Disini-LIVE_DEMO-ff69b4?style=for-the-badge&logo=android&logoColor=white)](MASUKKAN_LINK_WEB_KAMU_DI_SINI)
+[![Live Demo](https://img.shields.io/badge/🎬_Coba_Webnya_Disini-LIVE_DEMO-ff69b4?style=for-the-badge&logo=android&logoColor=white)](https://animesaku-iota.vercel.app/)
 [![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)]()
 [![Showcase](https://img.shields.io/badge/Repo-Showcase_Saja-blue?style=for-the-badge)]()
 [![Author](https://img.shields.io/badge/Made_By-Muhammad_Hilmy-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hirumisann)
@@ -15,7 +15,6 @@
 > ### ⚠️ PERHATIAN PENTING UNTUK PENGUNJUNG!
 > Repository publik ini **BUKAN** menyimpan kode sumber (source code) atau file asli dari website AnimeSaku. 
 > Repositori ini sengaja dibuat **hanya untuk menampilkan portofolio berupa screenshot dan link demo** dari proyek web yang telah saya bangun. 
-> 
 > Untuk alasan keamanan dan privasi, seluruh fitur, file, dan logika kode asli tersimpan secara **PRIVAT** di tempat lain. Dilarang meminta akses atau mencuri konsep yang ada. Terima kasih telah menghargai karya orisinal! 🤝
 
 ---
