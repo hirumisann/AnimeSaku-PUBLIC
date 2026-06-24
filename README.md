@@ -159,6 +159,6 @@
 Projek ini dibuat 100% menggunakan konsep **Vibe Coding** oleh **Muhammad Hilmy**.  
 Seluruh desain, logika, dan aset adalah milik orisinal pemilik.
 
-<img src="https://img.shields.io/badge/Copyright-2024/Muhammad_Hilmy-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Copyright-2026/Muhammad_Hilmy-red?style=for-the-badge" />
 
 </div>
