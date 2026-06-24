@@ -22,19 +22,72 @@
 ### ✨ Tampilan Antarmuka (UI Showcase)
 
 <details>
-<summary>📱 <b>Klik untuk melihat slide tampilan halaman utama</b></summary>
+<summary>📱 <b>Klik untuk melihat preview tampilan aplikasi</b></summary>
+
 <br>
 
-![Slide 1](./Slide%201.jpg)
+<div align="center">
 
-![Slide 2](./Slide%202.jpg)
+<img src="./Slide%201.jpg" width="350" alt="UI Preview 1"/>
 
-![Slide 3](./Slide%203.jpg)
+<br><br>
 
-![Slide 4](./Slide%204.jpg)
+<p align="center">
+  ✦ Landing Page
+</p>
 
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br><br>
+
+<img src="./Slide%202.jpg" width="350" alt="UI Preview 2"/>
+
+<br><br>
+
+<p align="center">
+  ✦ Explore Anime Catalog
+</p>
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br><br>
+
+<img src="./Slide%203.jpg" width="350" alt="UI Preview 3"/>
+
+<br><br>
+
+<p align="center">
+  ✦ Streaming Player Interface
+</p>
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br><br>
+
+<img src="./Slide%204.jpg" width="350" alt="UI Preview 4"/>
+
+<br><br>
+
+<p align="center">
+  ✦ Watchlist & Favorites
+</p>
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br><br>
+
+</div>
 
 </details>
+
 
 ---
 
