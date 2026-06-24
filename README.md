@@ -33,7 +33,7 @@
 <br><br>
 
 <p align="center">
-  ✦ Landing Page
+  ✦ HOME PAGE
 </p>
 
 <br>
@@ -47,7 +47,7 @@
 <br><br>
 
 <p align="center">
-  ✦ Explore Anime Catalog
+  ✦ JADWAL TAYANG MINGGUAN
 </p>
 
 <br>
@@ -61,7 +61,7 @@
 <br><br>
 
 <p align="center">
-  ✦ Streaming Player Interface
+  ✦ ANIME INFORMATION
 </p>
 
 <br>
@@ -75,7 +75,7 @@
 <br><br>
 
 <p align="center">
-  ✦ Watchlist & Favorites
+  ✦ EPISODE LIST
 </p>
 
 <br>
