@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary>📺 <b detail, Player & Streaming</b></summary>
+<summary>📺 <b>Detail, Player & Streaming</b></summary>
 <br>
 
 *   🎭 **Detail Sinopsis Lengkap:** Halaman info anime dengan tampilan Hero yang epik, lengkap dengan statistik (Views, Favorite, Studio).
